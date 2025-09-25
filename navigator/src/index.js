@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 
 function App(){
-  return (<></>)
+  return (<>App</>)
 }
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
